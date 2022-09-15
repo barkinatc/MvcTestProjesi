@@ -1,0 +1,17 @@
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.DataAccess.deps.json
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.DataAccess.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.DataAccess.pdb
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.Core.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.Entity.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.Entity.pdb
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\TestProject.Core.pdb
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.csproj.AssemblyReference.cache
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.AssemblyInfo.cs
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.csproj.CopyComplete
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\ref\TestProject.DataAccess.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\obj\Debug\net5.0\TestProject.DataAccess.pdb
+C:\Users\brkna\source\repos\TestProject\TestProject.DataAccess\bin\Debug\net5.0\ref\TestProject.DataAccess.dll

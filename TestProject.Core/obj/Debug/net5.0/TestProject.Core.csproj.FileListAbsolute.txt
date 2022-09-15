@@ -1,0 +1,12 @@
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.deps.json
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\bin\Debug\net5.0\TestProject.Core.pdb
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.AssemblyInfoInputs.cache
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.AssemblyInfo.cs
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\ref\TestProject.Core.dll
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.pdb
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\obj\Debug\net5.0\TestProject.Core.csproj.AssemblyReference.cache
+C:\Users\brkna\source\repos\TestProject\TestProject.Core\bin\Debug\net5.0\ref\TestProject.Core.dll

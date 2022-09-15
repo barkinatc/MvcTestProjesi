@@ -1,0 +1,336 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.MvcWebUI\\TestProject.MvcWebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Business\\TestProject.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Business\\TestProject.Business.csproj",
+        "projectName": "TestProject.Business",
+        "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Business\\TestProject.Business.csproj",
+        "packagesPath": "C:\\Users\\brkna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brkna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj"
+              },
+              "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj": {
+                "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Core\\TestProject.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Core\\TestProject.Core.csproj",
+        "projectName": "TestProject.Core",
+        "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Core\\TestProject.Core.csproj",
+        "packagesPath": "C:\\Users\\brkna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brkna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj",
+        "projectName": "TestProject.DataAccess",
+        "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.DataAccess\\TestProject.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\brkna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brkna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj": {
+                "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj",
+        "projectName": "TestProject.Entity",
+        "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\TestProject.Entity.csproj",
+        "packagesPath": "C:\\Users\\brkna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brkna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Core\\TestProject.Core.csproj": {
+                "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Core\\TestProject.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.MvcWebUI\\TestProject.MvcWebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.MvcWebUI\\TestProject.MvcWebUI.csproj",
+        "projectName": "TestProject.MvcWebUI",
+        "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.MvcWebUI\\TestProject.MvcWebUI.csproj",
+        "packagesPath": "C:\\Users\\brkna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.MvcWebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\brkna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Business\\TestProject.Business.csproj": {
+                "projectPath": "C:\\Users\\brkna\\source\\repos\\TestProject\\TestProject.Business\\TestProject.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
